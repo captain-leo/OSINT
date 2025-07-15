@@ -1,0 +1,54 @@
+-----------------------------------------------------------------------------------------
+
+OOOO----------->Reverse Image Search Like a pro
+
+Find the source of an image, verify profiles, or 
+detect fake accounts.
+ 
+ Tools to use8
+-->Google ImageG
+-->TinEyA
+-->Yandex ImageG
+-->PimEyes (for faces)
+------------------------------------------------------------------------------------------
+
+OOOO------------> Track Photo Locations
+
+Zoom into reflections, backgrounds, or signs in 
+photos.
+ 
+Use^
+O Google MapG
+O Instagram's location tagG
+O Street signs, store names, weather, light angles 
+O Investigate GPS coordinates in photo’s 
+metadata (Jimpl)
+--------------------------------------------------------------------------------------------
+
+  OOOO-----------> Find Leaked Credentials
+
+Search for .env or .log files that contain sensitive 
+data accidentally uploaded.
+
+
+filetype:env "DB_PASSWORD" 
+filetype:log intext:"admin
+
+---------------------------------------------------------------------------------------------
+
+OOOO-------------> Discover Secrets in PDFs & Docs
+
+Sometimes, confidential info is hidden in plain 
+sight.
+
+
+site:edu filetype:pdf confidential 
+site:gov filetype:xls intext:"password"
+=============================================================================================================<>================================================================================================================================
+                                                                                             This is for educational purposes only.
+
+
+                                                                                        Never access, share, or misuse data that violates 
+                                                                                                privacy laws or terms of service.
+ 
+                                                                                              OSINT is a powerful tool — RESPECT IT
