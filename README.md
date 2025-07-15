@@ -4,9 +4,9 @@ OSINT is a powerful, open-source tool that aids professionals in digital forensi
 
 
                                                                                              
-                                                                                                This is for educational purposes only.
-                                                                                         Never access, share, or misuse data that violates 
-                                                                                                 privacy laws or terms of service.
-                                                                                              OSINT is a powerful tool — RESPECT IT
+                                                    This is for educational purposes only.
+                                              Never access, share, or misuse data that violates 
+                                                     privacy laws or terms of service.
+                                                  OSINT is a powerful tool — RESPECT IT
  
                                                                                               
