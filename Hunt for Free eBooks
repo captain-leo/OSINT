@@ -1,0 +1,14 @@
+Many universities , Organization have open FTP servers host full 
+PDFs of textbooks and research. You can find them 
+with:
+
+intitle:index.of? epub OR pdf "book title"
+{
+-->filetype:pdf "book title”
+}
+Replace "book title" or keywords with any topic you 
+want. 
+
+
+
+                                                                                                                    ENJOY  IT
