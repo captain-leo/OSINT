@@ -1,0 +1,10 @@
+Want to find open directories with .mp4 or .mkv 
+movie files?
+
+
+intitle:index.of? mkv mp4 "movie name" 
+intitle:index.of? "The Matrix" s01e01
+
+
+These dorks bring you directly to open folder 
+listings with downloadable or streamable content.
