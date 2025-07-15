@@ -1,0 +1,16 @@
+Thousands of surveillance cameras are exposed 
+online, often without passwords.
+
+
+Use these dorks to find them:
+
+
+inurl:/view/index.shtml
+
+intitle:"Live View / - AXIS" inurl:/view/view.shtml
+
+intitle:"Live NetSnap Cam-Server feed"
+
+
+Important: Always use for educational or bug 
+bounty purposes. Don’t spy illegally.
