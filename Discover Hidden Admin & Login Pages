@@ -1,0 +1,13 @@
+You can find login panels not intended for public 
+view:
+
+
+site:.com inurl:admin
+
+site:.com intitle:"admin login"
+
+site:.com intext:"admin" inurl:"login"
+
+
+Perfect for ethical hacking, red teaming, or 
+checking if your own site is exposed.
